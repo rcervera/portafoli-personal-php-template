@@ -23,20 +23,20 @@
                     <div class="card-header">Login</div>
 
                     <div class="card-body">
-                        <form method="POST" action="#">
+                        <form method="POST" action="processarLogin.php">
                             
 
                             <div class="row mb-3">
                                 <label for="username" class="col-md-4 col-form-label text-md-end">Username</label>
                                 <div class="col-md-6">
-                                    <input id="email" type="email" class="form-control" name="username" value="" required autofocus>
+                                    <input type="text" class="form-control" name="username" value="" required>
                                 </div>
                             </div>
 
                             <div class="row mb-3">
                                 <label for="password" class="col-md-4 col-form-label text-md-end">Password</label>
                                 <div class="col-md-6">
-                                    <input id="password" type="password" class="form-control" name="password" required>                             
+                                    <input type="password" class="form-control" name="password" required>                             
                                 </div>
                             </div>
 
