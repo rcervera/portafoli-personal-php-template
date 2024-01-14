@@ -26,16 +26,16 @@
                     <ul class="navbar-nav me-auto">   
                              <li class="nav-item">
                                 <a class="nav-link" href="/portafoli-personal-php/pages/basics">Basics</a>
-                            </li>                    
+                            </li>    
+                            <li class="nav-item">
+                                <a class="nav-link" href=#">Arrays</a>
+                            </li>                
                             <li class="nav-item">
                                 <a class="nav-link" href="#">GET</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href=#">POST</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href=#">Arrays</a>
-                            </li>
+                            </li>                           
                             <li class="nav-item">
                                 <a class="nav-link" href=#">Cookies</a>
                             </li>
